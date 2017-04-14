@@ -1,0 +1,10 @@
+{
+  "name": "one-off-utils",
+  "version": "1.0.0",
+  "description": "Random dumping of repetative tasks",
+  "author": "Lawrence Brooks <84.lbrooks@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "glob": "^7.1.1",
+  }
+}
